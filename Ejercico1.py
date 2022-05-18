@@ -7,3 +7,5 @@ gramos = round(libras*(453.59/1),2)                  #operacion aritmetica (de l
 print("En ",libras,"lb, hay ",kilogramo,"kg")           #mostrar conversion (resultado) al usuario
 print("En ",libras,"lb, hay ",gramos,"g")
 
+
+
